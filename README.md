@@ -1,2 +1,2 @@
 # MaliciousDNSServer
-# MaliciousDNSServer
+Use responsibly
